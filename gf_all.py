@@ -1,3 +1,5 @@
+import os
+
 # Function to display the menu
 def display_menu():
     print("Menu:")
