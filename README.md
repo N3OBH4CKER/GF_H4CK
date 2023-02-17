@@ -8,5 +8,5 @@ git clone https://github.com/N3OBH4CKER/GF_H4CK
 
 cd GF_H4CK
 
-python2 gf_random-n3ob.py
+python2 gf_random-hack.py
 
